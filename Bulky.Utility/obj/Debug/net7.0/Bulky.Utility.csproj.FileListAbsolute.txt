@@ -1,0 +1,12 @@
+D:\Saad\DotnetMVC\Bulky\Bulky.Utility\bin\Debug\net7.0\Bulky.Utility.deps.json
+D:\Saad\DotnetMVC\Bulky\Bulky.Utility\bin\Debug\net7.0\Bulky.Utility.dll
+D:\Saad\DotnetMVC\Bulky\Bulky.Utility\bin\Debug\net7.0\Bulky.Utility.pdb
+D:\Saad\DotnetMVC\Bulky\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.csproj.AssemblyReference.cache
+D:\Saad\DotnetMVC\Bulky\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\Saad\DotnetMVC\Bulky\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.AssemblyInfoInputs.cache
+D:\Saad\DotnetMVC\Bulky\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.AssemblyInfo.cs
+D:\Saad\DotnetMVC\Bulky\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.csproj.CoreCompileInputs.cache
+D:\Saad\DotnetMVC\Bulky\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.dll
+D:\Saad\DotnetMVC\Bulky\Bulky.Utility\obj\Debug\net7.0\refint\Bulky.Utility.dll
+D:\Saad\DotnetMVC\Bulky\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.pdb
+D:\Saad\DotnetMVC\Bulky\Bulky.Utility\obj\Debug\net7.0\ref\Bulky.Utility.dll
